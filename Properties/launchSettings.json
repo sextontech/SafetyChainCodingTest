@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SatetyChainCodingTest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Progr\\source\\repos\\SafetyChainCodingTest\\SafetyChainCodingTest\\TestData\\"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

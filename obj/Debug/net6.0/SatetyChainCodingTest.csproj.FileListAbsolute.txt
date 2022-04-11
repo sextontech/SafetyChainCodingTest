@@ -1,0 +1,17 @@
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\bin\Debug\net6.0\SatetyChainCodingTest.exe
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\bin\Debug\net6.0\SatetyChainCodingTest.deps.json
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\bin\Debug\net6.0\SatetyChainCodingTest.runtimeconfig.json
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\bin\Debug\net6.0\SatetyChainCodingTest.dll
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\bin\Debug\net6.0\SatetyChainCodingTest.pdb
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.AssemblyInfoInputs.cache
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.AssemblyInfo.cs
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.dll
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\refint\SatetyChainCodingTest.dll
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.pdb
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.genruntimeconfig.cache
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\ref\SatetyChainCodingTest.dll
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Progr\source\repos\SatetyChainCodingTest\SatetyChainCodingTest\obj\Debug\net6.0\SatetyChainCodingTest.csproj.CopyComplete

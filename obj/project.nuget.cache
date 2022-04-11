@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sKVcFjViG6dlBbZymKXLNDbKR7HLkZuuFdnMA+bCdyDXmIQiCbq5yU3eYX+zH4g/2xwW7OzSrbaXcOETTfSq2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Progr\\source\\repos\\SafetyChainCodingTest\\SafetyChainCodingTest\\SafetyChainCodingTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Progr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
